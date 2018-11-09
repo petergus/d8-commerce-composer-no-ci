@@ -1,16 +1,63 @@
 # Example Drops 8 Composer
 
-[![CircleCI](https://circleci.com/gh/pantheon-systems/example-drops-8-composer.svg?style=shield)](https://circleci.com/gh/pantheon-systems/example-drops-8-composer)
-[![Pantheon example-drops-8-composer](https://img.shields.io/badge/dashboard-drops_8-yellow.svg)](https://dashboard.pantheon.io/sites/c401fd14-f745-4e51-9af2-f30b45146a0c#dev/code) 
-[![Dev Site example-drops-8-composer](https://img.shields.io/badge/site-drops_8-blue.svg)](http://dev-example-drops-8-composer.pantheonsite.io/)
 
-This repository is a start state for a Composer-based Drupal workflow with Pantheon. It is meant to be copied by the the [Terminus Build Tools Plugin](https://github.com/pantheon-systems/terminus-build-tools-plugin) which will set up for you a brand new
+This repository is an edited start state for a Composer-based Drupal Commerce workflow with Pantheon. 
 
-* GitHub repo
-* Free Pantheon sandbox site
-* A CircleCI configuration to run tests and push from the source repo (GitHub) to Pantheon.
+All Circle CI information has been removed according to https://pantheon.io/docs/guides/drupal-8-composer-no-ci/
 
-For more background information on this style of workflow, see the [Pantheon documentation](https://pantheon.io/docs/guides/github-pull-requests/).
+The composer.json file has been edited to merge a basic package list from https://www.commercekickstart.com/
+
+# Build Summary
+
+Region
+North America
+
+Distribution
+Drupal
+
+Payments
+Auth.net
+
+Shipping
+Flat Rate
+
+Taxes & Accounting
+Custom Taxes
+
+Catalog
+Database Search
+Apache Solr
+
+Data Migration
+None
+
+The follow is the default instructions from https://github.com/pantheon-systems/example-drops-8-composer
+
+
+<!--
+        /((((((\\\\
+=======((((((((((\\\\\
+     ((           \\\\\\\
+     ( (*    _/      \\\\\\\
+       \    /  \      \\\\\\________________
+        |  |   |       </                  ((\\\\
+        o_|   /        /                      \ \\\\    \\\\\\\
+             |  ._    (                        \ \\\\\\\\\\\\\\\\
+             | /                       /       /    \\\\\\\     \\
+     .______/\/     /                 /       /         \\\
+    / __.____/    _/         ________(       /\
+   / / / ________/`---------'         \     /  \_
+  / /  \ \                             \   \ \_  \
+ ( <    \ \                             >  /    \ \
+  \/     \\_                           / /       > )
+          \_|                         / /       / /
+                                    _//       _//
+                                   /_|       /_|
+-->
+
+
+
+
 
 
 ## Installation
