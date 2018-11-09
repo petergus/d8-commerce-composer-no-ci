@@ -7,7 +7,7 @@ All Circle CI information has been removed according to https://pantheon.io/docs
 
 The composer.json file has been edited to merge a basic package list from https://www.commercekickstart.com/
 
-# Build Summary
+### Build Summary
 
 Region
 North America
@@ -31,7 +31,7 @@ Apache Solr
 Data Migration
 None
 
-The follow is the default instructions from https://github.com/pantheon-systems/example-drops-8-composer
+###The follow is the default instructions from https://github.com/pantheon-systems/example-drops-8-composer
 
 
 <!--
