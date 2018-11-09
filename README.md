@@ -31,7 +31,7 @@ Apache Solr
 Data Migration
 None
 
-###The follow is the default instructions from https://github.com/pantheon-systems/example-drops-8-composer
+### The follow is the default instructions from https://github.com/pantheon-systems/example-drops-8-composer
 
 
 <!--
